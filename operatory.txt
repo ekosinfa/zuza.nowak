@@ -1,0 +1,9 @@
+2 === 2
+
+2 < 5
+
+true and true
+
+false xor true
+
+false or true
